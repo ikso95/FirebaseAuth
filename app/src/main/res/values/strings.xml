@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseAuthRealTimeDB</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password_error">Password to short</string>
+    <string name="email_error">Wrong email adress</string>
+    <string name="password_confirmation_error">Password are not the same</string>
+    <string name="phone">Phone number</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_google">Sign in with google</string>
+</resources>
